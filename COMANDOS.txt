@@ -1,0 +1,14 @@
+
+php artisan install:api
+php artisan install:broadcasting
+
+npm i -D @vitejs/plugin-vue
+npm i vue@latest
+npm i vue-router@4
+npm i pinia
+
+npm install vue-toast-notification@^3
+
+npm install @vuelidate/core @vuelidate/validators
+
+tailwind css intallation
